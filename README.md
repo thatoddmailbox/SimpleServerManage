@@ -1,0 +1,1 @@
+SimpleServerManage is a plugin for Bukkit servers.
